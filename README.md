@@ -1,1 +1,1 @@
-Etienne' new Git repo.
+Intro to Git
